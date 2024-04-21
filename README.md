@@ -8,11 +8,11 @@
 
 ## System Information
 - System Operating: Microsoft Windows 11
-- 
+  
 - Programming Language: Python
-- 
+  
 - Python Version: Python 3.12.2
-- 
+  
 - Tools Used: PyCharm
 
 
@@ -43,7 +43,7 @@ This is an example of what the input data looks like.
 
 5 5ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤnumber of nonterminal symbols    number of strings to analyze
 
-S AB BA SS AC BDㅤㅤㅤㅤㅤㅤgrammar
+S AB BA SS AC BDㅤㅤㅤㅤㅤㅤㅤgrammar
 
 C SB
 
