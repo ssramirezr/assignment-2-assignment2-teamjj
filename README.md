@@ -39,11 +39,11 @@ You can download the main.py file or clone the repository
 ## Input
 This is an example of what the input data looks like.
 
-1                          number of examples
+1ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤnumber of examples
 
-5 5                        number of nonterminal symbols    number of strings to analyze
+5 5ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤnumber of nonterminal symbols    number of strings to analyze
 
-S AB BA SS AC BD           grammar
+S AB BA SS AC BDㅤㅤㅤㅤㅤㅤgrammar
 
 C SB
 
@@ -53,27 +53,27 @@ A a
 
 B b
 
-aabbab      ㅤㅤㅤㅤㅤ               string 1 to analyze
+aabbabㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 1 to analyze
 
-aabb                       string 2 to analyze
+aabbㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 2 to analyze
 
-ab                         string 3 to analyze
+abㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 3 to analyze
 
-aa                         string 4 to analyze
+aaㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 4 to analyze
 
-b                          string 5 to analyze
+bㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ string 5 to analyze
 
 
 ## Output
 This is an example of what the output data looks like.
 
-yes                        string 1 accepted
+yesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 1 accepted
 
-yes                        string 2 accepted
+yesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 2 accepted
 
-yes                        string 3 accepted
+yesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 3 accepted
 
-no                         string 4 rejected
+noㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 4 rejected
 
-no                         string 5 rejected
+noㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 5 rejected
 
