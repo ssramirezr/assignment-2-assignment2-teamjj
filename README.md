@@ -16,7 +16,7 @@
 - Tools Used: PyCharm
 
 
-## instructions for executing the implementation:
+## Instructions for executing the implementation:
 **1.** In the github repository:
 ```bash
 https://github.com/ssramirezr/assignment-2-assignamet2-teamss.git
@@ -24,7 +24,7 @@ https://github.com/ssramirezr/assignment-2-assignamet2-teamss.git
 
 You can download the main.py file or clone the repository
 
-- Remember that you must have python installed on your operating system, or have a python iddle.
+- Remember that you must have a python iddle installed.
 
 **2.** 
 
@@ -32,16 +32,16 @@ You can download the main.py file or clone the repository
 
 **2.2.** Alternative, in the console you must access the folder where the main.py file is located, and use the commands to run the program:
 
-     ```bash 
-     python main.py
-     ```
+ ```bash 
+ python main.py
+ ```
      
 ## Input
 This is an example of what the input data looks like.
 
 1                          number of examples
 
-5 5                        number of productions of grammar    number of strings to analyze
+5 5                        number of nonterminal symbols    number of strings to analyze
 
 S AB BA SS AC BD           grammar
 
@@ -53,7 +53,7 @@ A a
 
 B b
 
-aabbab                     string 1 to analyze
+aabbab      ㅤㅤㅤㅤㅤ               string 1 to analyze
 
 aabb                       string 2 to analyze
 
