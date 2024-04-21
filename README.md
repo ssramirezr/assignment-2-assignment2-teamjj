@@ -3,12 +3,16 @@
 
 ## Group Members:
 **1.** Juan David Velásquez
+
 **2.** Jhon Fredy Alzate
 
 ## System Information
 - System Operating: Microsoft Windows 11
+- 
 - Programming Language: Python
+- 
 - Python Version: Python 3.12.2
+- 
 - Tools Used: PyCharm
 
 
