@@ -19,7 +19,7 @@
 ## Instructions for executing the implementation:
 **1.** In the github repository:
 ```bash
-https://github.com/ssramirezr/assignment-2-assignamet2-teamss.git
+https://github.com/
 ```
 
 You can download the main.py file or clone the repository
