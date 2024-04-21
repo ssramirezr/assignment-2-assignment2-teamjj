@@ -40,11 +40,11 @@ You can download the main.py file or clone the repository
 ## Input
 This is an example of what the input data looks like.
 
-1ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤnumber of examples
+1ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**number of examples**
 
-5 5ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤnumber of nonterminal symbols    number of strings to analyze
+5 5ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**number of nonterminal symbols    number of strings to analyze**
 
-S AB BA SS AC BDㅤㅤㅤㅤㅤㅤㅤgrammar
+S AB BA SS AC BDㅤㅤㅤㅤㅤㅤ**grammar**
 
 C SB
 
@@ -54,26 +54,26 @@ A a
 
 B b
 
-aabbabㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 1 to analyze
+aabbabㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**string 1 to analyze**
 
-aabbㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 2 to analyze
+aabbㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**string 2 to analyze**
 
-abㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 3 to analyze
+abㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**string 3 to analyze**
 
-aaㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 4 to analyze
+aaㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**string 4 to analyze**
 
-bㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ string 5 to analyze
+bㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ **string 5 to analyze**
 
 
 ## Output
 This is an example of what the output data looks like.
 
-yesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 1 accepted
+yesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**string 1 accepted**
 
-yesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 2 accepted
+yesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**string 2 accepted**
 
-yesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 3 accepted
+yesㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**string 3 accepted**
 
-noㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 4 rejected
+noㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**string 4 rejected**
 
-noㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤstring 5 rejected
+noㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ**string 5 rejected**
